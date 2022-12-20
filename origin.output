@@ -1,0 +1,7 @@
+912049f09c6507e7cd3a2781100cb2d10c6caa29	refs/heads/develop
+b12dde89c4b3cb00a5b01a3a6682ad8ea9cc91d4	refs/heads/diverged
+2b34722d2d411e051a533dc0831ea0229a3eb32c	refs/heads/feat
+42fd486dc1d3bc74a28fbb041366b4c5f15c09b9	refs/heads/master
+42fd486dc1d3bc74a28fbb041366b4c5f15c09b9	refs/heads/new-feature
+fe8ebc0fd0b92cfba093edf14d4e40df2e694b34	refs/heads/stale
+92a53c5dd3d63d911779a8ce89403f24be283e2d	refs/heads/up-to-date
